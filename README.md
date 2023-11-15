@@ -20,16 +20,14 @@ This project is designed as a backend solution for an e-commerce website. It emp
 
 Run node server.js, then open insomnia.
 
-
-
 ## Link
 
 Click the link below for a demonstration
-()
+(<https://drive.google.com/uc?id=1HjeWcbItmutzYuPNEU2t7I-hCd9PaE34&export=download>)
 
 ## Screenshot
 
-
+![Screenshot One](assets/images/Screenshot%202023-11-15%20155957.png)
 
 ## Questions
 
